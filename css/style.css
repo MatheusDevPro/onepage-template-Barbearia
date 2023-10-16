@@ -181,7 +181,7 @@
 
 .main_footer_copy p                { font-size:1em; }
 .main_footer_copy .t-copy-footer   { float:left; width:auto; }
-.main_footer_copy .by              { float:right; width:auto; }
+.main_footer_copy .by              { float:right; width:auto; text-align: center; }
 
 } 
 
