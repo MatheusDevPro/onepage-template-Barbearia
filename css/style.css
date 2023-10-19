@@ -1,7 +1,7 @@
 /*CLASS*/
 :root {
    
---branco: #ffffff;
+--branco: #dfee10;
 --laranja: #ff8200; 
 --preto: #3c3b3b; 
 --vermelho: #bb0020; 
@@ -86,7 +86,7 @@
 /*Cardápio*/
 
 /*Galeria*/
-.section-galeria          { background-color:var(--branco); }
+.section-galeria          { background-color:var(); }
 .section-galeria .content { float:left; padding: 0.5em 0 0em 0; }
 
 .galeria-foto { width:100%; float:left; position:relative; overflow:hidden; }
